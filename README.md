@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-#include <stdio.h>
+
 
 int main() {
     // Movimentação da Torre (usando for): 5 casas para a direita
