@@ -29,5 +29,17 @@ int main() {
     } while (r < 8);
     printf("\n");
     
+    // Movimentação do Cavalo (loops aninhados): 2 casas para baixo e 1 para esquerda
+    printf("Movimento do Cavalo\n");
+    for(int c = 0; c < 2; c++) { // 2 casas para baixo
+        printf("Baixo\n");
+
+    }
+    int e = 0;
+    while (e < 1){ // movimenta 1 casa para esquerda
+        printf("Esquerda\n");
+        e++;
+    }
+    
     return 0;
 }
